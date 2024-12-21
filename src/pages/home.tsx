@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <html lang="en">
       <head>
-        <title>Hello World</title>
+        <title>PromptPay QR</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <script src="https://cdn.tailwindcss.com"></script>
       </head>
